@@ -5,9 +5,9 @@ int main()
     printf("enter a number:\n");
     scanf("%d",&k);
     if(k%2==0)
-    printf("the given number is even");
+    printf("even");
     else
-    printf("the given number is odd");
+    printf("odd");
 
     return 0;
 }
