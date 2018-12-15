@@ -3,8 +3,6 @@ int main()
 {
     char k;
     int lowercasevowel, uppercasevowel;
-
-    printf("Enter an alphabet: ");
     scanf("%c",&k);
 
     lowercasevowel = (k == 'a' || k == 'e' || k == 'i' || k == 'o' || k == 'u');
