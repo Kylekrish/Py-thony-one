@@ -17,7 +17,7 @@ int main()
         num /= 10;
     }
 
-    printf("Total digits: %d", count);
+    printf("%d", count);
 
     return 0;
 }
